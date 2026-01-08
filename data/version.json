@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "styles.json",
+      "url": "https://raw.githubusercontent.com/nutx191/nutx2_ai/main/data/styles.json"
+    }
+  ]
+}
